@@ -202,7 +202,7 @@ def game_over(player):
         pygame.time.delay(50)
 
 
-# Función de Victoria
+# Función de Victoria.
 def victory(player):
     victory_running = True
     while victory_running:
