@@ -5,7 +5,7 @@
 ## Características Principales
 
 - **Controles y Navegación:**
-  - La nave del jugador se mueve libremente en el eje horizontal (sin colisiones con los bordes).
+  - La nave del jugador se mueve libremente en el eje horizontal (usando las flechas izquierda y derecha del teclado) (sin colisiones con los bordes).
   - Se dispara con la barra espaciadora.
   
 - **Enemigos y Bosses:**
